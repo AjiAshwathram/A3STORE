@@ -22,3 +22,9 @@ __bold__
         <p style="color: blue; text-align: center">Hello</p>
     </body>
 </html>
+
+
+```
+    def greet:
+        print("hello")
+```
